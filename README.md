@@ -12,7 +12,7 @@
 
 # 🔥 AUTHORED ["RN Advanced Guide BOOK"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
 - It has secured **1300+** GitHub STAR ⭐️
-- Received huge recognition from the RN community 💯
+- Received huge recognition from the **[RN community](https://x.com/anis_RNCore/status/1741748480400576921)** 💯
   
 [![image](https://github.com/anisurrahman072/anisurrahman072/assets/40535268/f4c1514c-2afa-4415-b060-8caccaf4290e)](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
 
