@@ -7,7 +7,7 @@
 - 🎖️ Top React Native Podcast featured me - ( by **Infinite Red** ) [🔗](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s)
 - 🎖️ My BOOK was added ( by **Callstack** ) in React Native Testing Library doc [🔗](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Testing/RNTL-Component-Testing-ultimate-guide.md)
 
-# [🚀 MY PORTFOLIO](https://anis-full-stack.netlify.app/)
+# 🚀 MY [PORTFOLIO](https://anis-full-stack.netlify.app/)
 - I'm best described in [my PORTFOLIO](https://anis-full-stack.netlify.app/) 🚀 
 
 # 🔥 AUTHORED ["RN Advanced Guide BOOK"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
