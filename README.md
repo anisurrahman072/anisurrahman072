@@ -3,9 +3,9 @@
 - 🟣 **Web**, **Mobile**, and **Blockchain** expert with **R&D** skills.
 
 # 🔥 TOP REMARKS
-- 🎖️ Top React Native Company ( **Callstack** ) endorsed me [🔗](https://twitter.com/mdj_dev/status/1750908771713315326?s=20)
-- 🎖️ Top React Native Podcast featured me - ( by **Infinite Red** ) [🔗](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s)
-- 🎖️ My BOOK was added ( by **Callstack** ) in React Native Testing Library doc [🔗](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Testing/RNTL-Component-Testing-ultimate-guide.md)
+- 🎖️ Top React Native Company ( [**Callstack**](https://twitter.com/mdj_dev/status/1750908771713315326?s=20) ) endorsed me [🔗](https://twitter.com/mdj_dev/status/1750908771713315326?s=20)
+- 🎖️ Top React Native Podcast featured me - ( by [**Infinite Red**](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s) ) [🔗](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s)
+- 🎖️ My BOOK was added ( by [**Callstack**](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Testing/RNTL-Component-Testing-ultimate-guide.md) ) in React Native Testing Library doc [🔗](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Testing/RNTL-Component-Testing-ultimate-guide.md)
 
 # 🚀 MY [PORTFOLIO](https://anis-full-stack.netlify.app/)
 - [**My PORTFOLIO**](https://anis-full-stack.netlify.app/) effectively highlights my talents over the past **5 years**. 🚀 
