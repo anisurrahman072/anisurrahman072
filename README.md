@@ -8,7 +8,7 @@
 - 🎖️ My BOOK was added ( by **Callstack** ) in React Native Testing Library doc [🔗](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Testing/RNTL-Component-Testing-ultimate-guide.md)
 
 # 🚀 MY [PORTFOLIO](https://anis-full-stack.netlify.app/)
-- I'm best described in [my PORTFOLIO](https://anis-full-stack.netlify.app/) 🚀 
+- [**My PORTFOLIO**](https://anis-full-stack.netlify.app/) effectively highlights my talents over the past **5 years**. 🚀 
 
 # 🔥 AUTHORED ["RN Advanced Guide BOOK"](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
 - The book has received over [**1300**](https://github.com/anisurrahman072/React-Native-Advanced-Guide) **GitHub STAR** ⭐️
