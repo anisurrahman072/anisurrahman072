@@ -10,7 +10,9 @@
 # [MY PORTFOLIO 🚀](https://anis-full-stack.netlify.app/)
 - I'm best described in [my PORTFOLIO](https://anis-full-stack.netlify.app/) 🚀 
 
-# AUTHORED ["RN Advanced Guide BOOK"](https://github.com/anisurrahman072/React-Native-Advanced-Guide) - Secured 1300+ STAR ⭐️
+# AUTHORED ["RN Advanced Guide BOOK"](https://github.com/anisurrahman072/React-Native-Advanced-Guide) 🔥
+- It has secured **1300+** GitHub STAR ⭐️
+- Received huge recognition from the RN community 💯
 [![image](https://github.com/anisurrahman072/anisurrahman072/assets/40535268/f4c1514c-2afa-4415-b060-8caccaf4290e)](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
 
 
