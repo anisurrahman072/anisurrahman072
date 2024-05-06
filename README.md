@@ -1,6 +1,6 @@
 ### I'M ANISUR RAHMAN
-- 🟣 Sr. Software Engineer with 5+ years of JS FULL STACK exp.
-- 🟣 Web, Mobile, and Blockchain expert with R&D skills.
+  🟣 Sr. Software Engineer with 5+ years of JS FULL STACK exp.
+  🟣 Web, Mobile, and Blockchain expert with R&D skills.
 
 <!--
 **anisurrahman072/anisurrahman072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
