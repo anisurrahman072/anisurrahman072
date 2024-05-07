@@ -4,7 +4,7 @@
 
 # 🔥 TOP REMARKS
 - 🎖️ Top React Native Company ( [**Callstack**](https://twitter.com/mdj_dev/status/1750908771713315326?s=20) ) endorsed me [🔗](https://twitter.com/mdj_dev/status/1750908771713315326?s=20)
-- 🎖️ Top React Native Podcast featured me - ( by [**Infinite Red**](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s) ) [🔗](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s)
+- 🎖️ Top React Native Podcast featured me on episode [**RNR 285**](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s) - ( by [**Infinite Red**](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s) ) [🔗](https://reactnativeradio.com/episodes/rnr-285-expo-dominates-the-app-store-and-other-news?t=23m1s)
 - 🎖️ My BOOK was added ( by [**Callstack**](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Testing/RNTL-Component-Testing-ultimate-guide.md) ) in React Native Testing Library doc [🔗](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Testing/RNTL-Component-Testing-ultimate-guide.md)
 
 # 🚀 MY [PORTFOLIO](https://anis-full-stack.netlify.app/)
