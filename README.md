@@ -1,6 +1,6 @@
 # 👋 I'M ANISUR RAHMAN
 - 🟣 Sr. Mobile Engineer with **5+ years** of JS **FULL STACK** exp.
-- 🟣 **Mobile**, **Web**, and **Blockchain** expert with **R&D** skills........................
+- 🟣 **Mobile**, **Web**, and **Blockchain** expert with **R&D** skills.......................
 
 # 💥 TOP REMARKS
 - 🎖️ Top React Native Company ( [**Callstack**](https://twitter.com/mdj_dev/status/1750908771713315326?s=20) ) endorsed me [🔗](https://twitter.com/mdj_dev/status/1750908771713315326?s=20)
