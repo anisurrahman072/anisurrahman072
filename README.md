@@ -10,7 +10,7 @@
 - [**My PORTFOLIO**](https://anis-works.netlify.app/) effectively highlights my talents over the past **5 years**. 🚀 
 
 # 🔥 AUTHORED ["RN ADVANCED GUIDE BOOK"](https://github.com/anisurrahman072/React-Native-Advanced-Guide) (1700+ STAR ⭐️)
-- The book has received over [**1600**](https://github.com/anisurrahman072/React-Native-Advanced-Guide) **GitHub STAR** ⭐️
+- The book has received over [**1700**](https://github.com/anisurrahman072/React-Native-Advanced-Guide) **GitHub STAR** ⭐️
 - It stands out as a **[celebrated resource](https://x.com/anis_RNCore/status/1741748480400576921)** in the RN community 💯
   
 [![image](https://github.com/anisurrahman072/anisurrahman072/assets/40535268/f4c1514c-2afa-4415-b060-8caccaf4290e)](https://github.com/anisurrahman072/React-Native-Advanced-Guide)
